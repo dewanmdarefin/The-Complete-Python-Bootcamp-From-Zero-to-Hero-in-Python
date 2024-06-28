@@ -8,5 +8,5 @@ It contains my solutions to various projects and assignments, demonstrating my u
 
 ## Repository Structure
 
-The repository is organized by project and assignment, with each having its own directory.
+The repository is organized by project and assignment, with each having its own file.
 
